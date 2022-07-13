@@ -7,6 +7,9 @@ mp3quran_scraper_and_tagEditor is a Python script (exe) that downloads the 114 S
 Two options:
 1. For usage only: [download](https://github.com/OdyAsh/mp3quran_scraper_and_tagEditor/blob/main/binn.zip) the "binn" zip from the latest commit, then extract that zip, then follow the steps in **Usage** section below
 2. For Modifying the app's script: clone the github project and modify the .py file (note: if you want to contribute to the project, you can contact me via e-mail or LinkedIn)
+  - After you clone the project, install the required libraries (preferrably in a virtual [environment](https://stackoverflow.com/questions/54106071/how-can-i-set-up-a-virtual-environment-for-python-in-visual-studio-code#:~:text=With%20a%20newer,Scripts%2Fpython.exe)) using this command 
+    
+    `pip install requirements.txt`
 
 ## Usage
 
