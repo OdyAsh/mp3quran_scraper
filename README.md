@@ -2,6 +2,8 @@
 
 mp3quran_scraper_and_tagEditor is a Python script (exe) that downloads the 114 Surahs (chapters) of the Quran from any reciter found in [mp3quran](https://mp3quran.net/eng).
 
+UPDATE: the website is currently not working (infinite load-time)
+
 ## Installation
 
 Two options:
